@@ -6,5 +6,3 @@ Php assignment for open source programming. Required to come up with a future te
 
 * **Hsun Wei**
 * **JWei**
-* **Sun**
-* **Jwen**
